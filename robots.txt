@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vegeko.okisu.co.jp/sitemap.xml
